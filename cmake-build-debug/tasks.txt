@@ -1,0 +1,31 @@
+10
+Study data structure
+60
+Educational
+Go the gym
+30
+Health
+Watch a podcast
+120
+Self development
+Prepare a Meal
+30
+Food
+Study software engineering
+60
+Educational
+Reading a book
+20
+Self development
+Tidy room
+15
+Other
+Shopping
+20
+Other
+Go to Library
+30
+Other
+Make DS Assignment
+100
+Educational
