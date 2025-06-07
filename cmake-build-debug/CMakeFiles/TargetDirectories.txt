@@ -1,0 +1,3 @@
+D:/college/cpp PFs/task manager/cmake-build-debug/CMakeFiles/task_manager.dir
+D:/college/cpp PFs/task manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/college/cpp PFs/task manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
